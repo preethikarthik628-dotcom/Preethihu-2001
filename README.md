@@ -130,21 +130,26 @@ A passionate Full-Stack .NET Developer with expertise in building scalable, high
 
 <div align="center">
 
-![Preethi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=000814&title_color=FFC300&icon_color=FFD60A&text_color=FFFFFF&ring_color=003566)
+![Preethi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Preethihu-2001&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=000814&title_color=FFC300&icon_color=FFD60A&text_color=FFFFFF&ring_color=003566)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true&background=000814&ring=FFC300&fire=FFD60A&currStreakNum=FFFFFF&currStreakLabel=FFC300)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Preethihu-2001&theme=dark&hide_border=true&background=000814&ring=FFC300&fire=FFD60A&currStreakNum=FFFFFF&currStreakLabel=FFC300)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&hide_border=true&bg_color=000814&title_color=FFC300&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Preethihu-2001&layout=compact&theme=dark&hide_border=true&bg_color=000814&title_color=FFC300&text_color=FFFFFF)
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 💻 Development Focus
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&custom_title=Preethi's%20GitHub%20Activity&theme=react-dark&bg_color=000814&hide_border=true&line=FFC300&point=FFD60A&area=true&area_color=FFC300&title_color=FFFFFF&color=FFFFFF)
+### 🚀 **Currently Building**
+**ASP.NET Web Applications & Automation Solutions**
+
+![.NET Development](https://img.shields.io/badge/Working%20On-.NET%20Solutions-FFC300?style=for-the-badge&logo=dotnet&logoColor=000814)
+![Web Apps](https://img.shields.io/badge/Building-Web%20Applications-FFD60A?style=for-the-badge&logo=azure-devops&logoColor=001D3D)
+![Automation](https://img.shields.io/badge/Specializing-Process%20Automation-003566?style=for-the-badge&logo=robot&logoColor=FFC300)
 
 </div>
 
@@ -169,7 +174,7 @@ A passionate Full-Stack .NET Developer with expertise in building scalable, high
 [![Email](https://img.shields.io/badge/Email-preethihu2001%40gmail.com-FFC300?style=for-the-badge&logo=gmail&logoColor=000814)](mailto:preethihu2001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD60A?style=for-the-badge&logo=linkedin&logoColor=001D3D)](https://linkedin.com/in/preethi-hu-b9257b238)
 [![Portfolio](https://img.shields.io/badge/Portfolio-003566?style=for-the-badge&logo=google-chrome&logoColor=FFC300)](https://your-portfolio-link.com)
-[![GitHub](https://img.shields.io/badge/GitHub-001D3D?style=for-the-badge&logo=github&logoColor=FFD60A)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-001D3D?style=for-the-badge&logo=github&logoColor=FFD60A)](https://github.com/Preethihu-2001)
 
 </div>
 
@@ -180,7 +185,7 @@ A passionate Full-Stack .NET Developer with expertise in building scalable, high
 ### ⚡ **Coding Philosophy**
 *"I don't just write code; I craft solutions that make lives easier and processes smarter."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=FFC300&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=Preethihu-2001&color=FFC300&style=for-the-badge&label=PROFILE+VIEWS)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:003566,50:001D3D,100:000814&height=100&section=footer&animation=blink)
 
