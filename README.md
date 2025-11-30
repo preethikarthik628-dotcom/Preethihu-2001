@@ -1,164 +1,187 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Hi, I'm Preethi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-<h3 align="center">💻 Full-Stack Developer | 🚀 Tech Enthusiast | 🇮🇳 From India</h3>
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:001D3D,100:003566&height=200&section=header&text=Preethi%20H.U&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20.NET%20Developer&descSize=20&descAlignY=51&fontColor=FFC300)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Clean+Code+Advocate;Problem+Solver;Continuous+Learner;Full-Stack+Developer" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Preethi+H.+U!;Full-Stack+.NET+Developer;Process+Automation+Specialist;Problem+Solver+⚡&color=FFC300" />
+
+</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Animation">
+  
+![.NET](https://img.shields.io/badge/-.NET-001D3D?style=for-the-badge&logo=dotnet&logoColor=FFC300)
+![C#](https://img.shields.io/badge/-C%23-003566?style=for-the-badge&logo=c-sharp&logoColor=FFD60A)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-000814?style=for-the-badge&logo=.net&logoColor=FFC300)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-FFC300?style=for-the-badge&logo=microsoft-sql-server&logoColor=000814)
+![Azure](https://img.shields.io/badge/-Azure-FFD60A?style=for-the-badge&logo=microsoft-azure&logoColor=001D3D)
+
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🎯 About Me
 
-I'm a passionate full-stack developer with expertise in building robust web applications using ASP.NET, C#, and modern web technologies. I enjoy creating efficient, scalable solutions and am constantly exploring new technologies to enhance my skill set.
+<div align="center" style="color: #FFD60A;">
 
-- 🔭 **Currently Working On:** Enterprise applications with **ASP.NET, C#, SQL Server**
-- 🌱 **Currently Learning:** **AI Integrations, Azure Cloud Services & Microservices Architecture**
-- 👯 **Looking to Collaborate On:** Open-source projects, Web Apps & Automation tools
-- 💡 **Interested In:** Cloud Computing, AI/ML, System Design
-- 💬 **Ask me about:** ASP.NET, SQL Optimization, Web Architecture, UI/UX Design
-- 📫 **How to reach me:** [yourmail@gmail.com](mailto:yourmail@gmail.com)
-- ⚡ **Fun fact:** I can debug CSS while blindfolded! (Just kidding... or am I? 😄)
+*✨ Transforming complex manual processes into elegant, automated solutions ✨*
+
+A passionate Full-Stack .NET Developer with expertise in building scalable, high-performance web applications. I specialize in process automation, having successfully **reduced operational time by 60%** through innovative solutions. I thrive on turning challenging requirements into efficient, user-friendly applications.
+
+</div>
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### 💻 **Programming Languages**
-<p>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge&logo=database&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-</p>
+<div align="center">
 
-### 🌐 **Frontend Development**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
-</p>
+### 💻 **Backend Development**
+![C#](https://img.shields.io/badge/C%23-FFC300?style=for-the-badge&logo=c-sharp&logoColor=000814&labelColor=001D3D)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-FFD60A?style=for-the-badge&logo=.net&logoColor=001D3D&labelColor=000814)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-003566?style=for-the-badge&logo=.net&logoColor=FFC300&labelColor=000814)
+![REST API](https://img.shields.io/badge/REST%20API-001D3D?style=for-the-badge&logo=rest&logoColor=FFD60A&labelColor=000814)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-000814?style=for-the-badge&logo=.net&logoColor=FFC300&labelColor=003566)
 
-### 🚀 **Backend & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/ASP.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET">
-  <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Entity%20Framework-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework">
-</p>
+### 🎨 **Frontend Development**
+![JavaScript](https://img.shields.io/badge/JavaScript-FFC300?style=for-the-badge&logo=javascript&logoColor=000814&labelColor=001D3D)
+![jQuery](https://img.shields.io/badge/jQuery-FFD60A?style=for-the-badge&logo=jquery&logoColor=001D3D&labelColor=000814)
+![HTML5](https://img.shields.io/badge/HTML5-003566?style=for-the-badge&logo=html5&logoColor=FFC300&labelColor=000814)
+![CSS3](https://img.shields.io/badge/CSS3-001D3D?style=for-the-badge&logo=css3&logoColor=FFD60A&labelColor=000814)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000814?style=for-the-badge&logo=bootstrap&logoColor=FFC300&labelColor=003566)
 
-### 🗄️ **Databases**
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
+### 🗄️ **Database & Tools**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-FFC300?style=for-the-badge&logo=microsoft-sql-server&logoColor=000814&labelColor=001D3D)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-FFD60A?style=for-the-badge&logo=visual-studio&logoColor=001D3D&labelColor=000814)
+![IIS](https://img.shields.io/badge/IIS-003566?style=for-the-badge&logo=microsoft&logoColor=FFC300&labelColor=000814)
+![Git](https://img.shields.io/badge/Git-001D3D?style=for-the-badge&logo=git&logoColor=FFD60A&labelColor=000814)
+![SSMS](https://img.shields.io/badge/SSMS-000814?style=for-the-badge&logo=microsoft-sql-server&logoColor=FFC300&labelColor=003566)
 
-### 🔧 **Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
-</p>
+</div>
 
 ---
 
-## 📂 Featured Projects
+## ⚡ Superpowers
 
-### 🌿 **Herbal Products E-Commerce Platform**
-A full-featured e-commerce solution for herbal products with admin dashboard and customer portal.
-- **Tech Stack:** ASP.NET MVC, C#, SQL Server, JavaScript, Bootstrap
-- **Features:** Product catalog, shopping cart, user authentication, payment integration, admin panel
-- **Highlights:** Responsive design, dynamic content management, secure transactions
+<div align="center">
 
-### 📄 **Enterprise Document Management System**
-A comprehensive document workflow system for business process automation.
-- **Tech Stack:** ASP.NET Core, Entity Framework, SQL Server, Razor Pages
-- **Features:** Document routing, approval workflows, version control, audit trails
-- **Highlights:** Role-based access, automated notifications, search & filter capabilities
+| 🔥 Process Automation | 🛡️ Secure Systems | 🚀 Performance Optimization |
+|:---------------------:|:-----------------:|:---------------------------:|
+| ![Automation](https://img.shields.io/badge/60%25-Faster-FFC300?style=for-the-badge&logoColor=000814) | ![Security](https://img.shields.io/badge/RBAC-Secure-FFD60A?style=for-the-badge&logoColor=001D3D) | ![Performance](https://img.shields.io/badge/Optimized-Performance-003566?style=for-the-badge&logoColor=FFC300) |
 
-### 🏥 **Hospital Management Dashboard**
-A dashboard for managing hospital operations, patient records, and appointments.
-- **Tech Stack:** ASP.NET, C#, Chart.js, SQL Server
-- **Features:** Real-time analytics, appointment scheduling, patient management
-- **Highlights:** Interactive charts, role-based dashboards, reporting module
+| 📊 End-to-End Development | 🔍 Debugging Expert | 🤝 Cross-Functional Collaboration |
+|:------------------------:|:------------------:|:-------------------------------:|
+| ![Full SDLC](https://img.shields.io/badge/Full-SDLC-001D3D?style=for-the-badge&logoColor=FFD60A) | ![Debugging](https://img.shields.io/badge/Expert-Debugging-000814?style=for-the-badge&logoColor=FFC300) | ![Collaboration](https://img.shields.io/badge/Team-Collaboration-FFC300?style=for-the-badge&logoColor=000814) |
+
+</div>
+
+---
+
+## 🏆 Featured Achievements
+
+<div align="center">
+
+### 🎯 **Impact Metrics**
+  
+![60% Faster](https://img.shields.io/badge/60%25-Faster%20Processing-FFC300?style=for-the-badge&logoColor=000814)
+![Automated Workflows](https://img.shields.io/badge/Automated-Workflows-FFD60A?style=for-the-badge&logoColor=001D3D)
+![Zero Manual](https://img.shields.io/badge/Zero-Manual%20Processes-003566?style=for-the-badge&logoColor=FFC300)
+
+</div>
+
+### 🏅 **Key Accomplishments**
+
+- 🚀 **60% Processing Time Reduction** - Automated scholarship portal eliminating manual workflows
+- 📁 **Document Management System** - Built complete DMS with RBAC and approval workflows
+- 🔒 **Secure Authentication** - Implemented robust security systems with role-based access
+- ⚡ **Performance Optimization** - Enhanced backend logic for superior application performance
+
+---
+
+## 🌟 Star Projects
+
+<div align="center">
+
+### 🎓 **Automated Scholarship Portal**
+> *ASP.NET MVC • C# • SQL Server • jQuery • Bootstrap*
+
+![Progress](https://progress-bar.vercel.app/100/?width=400&title=Completed&color=FFC300)
+  
+**🏆 Achievement:** Reduced processing time by **60%**
+- ✅ Automated manual scholarship workflows
+- ✅ Secure authentication system
+- ✅ Optimized backend processing logic
+- ✅ Real-time status tracking
+
+### 📁 **Document Management System (DMS)**
+> *ASP.NET MVC • RBAC • Workflow Automation • SQL Server*
+
+![Progress](https://progress-bar.vercel.app/100/?width=400&title=Completed&color=FFD60A)
+  
+**🏆 Achievement:** Eliminated manual document handling
+- ✅ Document routing and approval workflows
+- ✅ Role-Based Access Control (RBAC)
+- ✅ Digital record management
+- ✅ Improved traceability and audit trails
+
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Preethi's GitHub Stats"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
-  
-</div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" alt="GitHub Streak"/>
+![Preethi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=000814&title_color=FFC300&icon_color=FFD60A&text_color=FFFFFF&ring_color=003566)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true&background=000814&ring=FFC300&fire=FFD60A&currStreakNum=FFFFFF&currStreakLabel=FFC300)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&hide_border=true&bg_color=000814&title_color=FFC300&text_color=FFFFFF)
+
 </div>
 
 ---
 
-## 🎯 GitHub Contributions
+## 📈 Activity Graph
 
 <div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark&hide_border=true&area=true)
-  
-</div>
 
-<p align="center">
-  <img src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&custom_title=Preethi's%20GitHub%20Activity&theme=react-dark&bg_color=000814&hide_border=true&line=FFC300&point=FFD60A&area=true&area_color=FFC300&title_color=FFFFFF&color=FFFFFF)
+
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 Certifications & Badges
 
 <div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=radical&no-frame=true&row=1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-  
+
+![Microsoft Certified](https://img.shields.io/badge/Microsoft-Certified%20Professional-FFC300?style=for-the-badge&logo=microsoft&logoColor=000814)
+![.NET Developer](https://img.shields.io/badge/.NET-Certified%20Developer-FFD60A?style=for-the-badge&logo=dotnet&logoColor=001D3D)
+![SQL Expert](https://img.shields.io/badge/SQL-Server%20Expert-003566?style=for-the-badge&logo=microsoft-sql-server&logoColor=FFC300)
+
 </div>
 
 ---
 
 ## 📫 Let's Connect!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://dev.to/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
-  </a>
-  <a href="https://stackoverflow.com/users/youruserid" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-preethihu2001%40gmail.com-FFC300?style=for-the-badge&logo=gmail&logoColor=000814)](mailto:preethihu2001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD60A?style=for-the-badge&logo=linkedin&logoColor=001D3D)](https://linkedin.com/in/preethi-hu-b9257b238)
+[![Portfolio](https://img.shields.io/badge/Portfolio-003566?style=for-the-badge&logo=google-chrome&logoColor=FFC300)](https://your-portfolio-link.com)
+[![GitHub](https://img.shields.io/badge/GitHub-001D3D?style=for-the-badge&logo=github&logoColor=FFD60A)](https://github.com/your-username)
+
+</div>
 
 ---
 
-## 📈 Weekly Development Breakdown
+<div align="center">
 
-```text
-C#           🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦   45%
-ASP.NET      🟦🟦🟦🟦🟦🟦🟦🟦       35%
-SQL          🟦🟦🟦🟦🟦             15%
-JavaScript   🟦🟦🟦                 5%
+### ⚡ **Coding Philosophy**
+*"I don't just write code; I craft solutions that make lives easier and processes smarter."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=FFC300&style=for-the-badge&label=PROFILE+VIEWS)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:003566,50:001D3D,100:000814&height=100&section=footer&animation=blink)
+
+</div>
